@@ -6,5 +6,7 @@ public class PushProject5 {
 		
 		System.out.println("Adding Push for the 5th time...");
 	}
-
+   public void add5htStush() {
+	   System.out.println("Adding Stush for the 5th Time......");
+   }
 }
